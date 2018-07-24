@@ -15,8 +15,17 @@ img.pull-left{
 img.pull-right{
   float: right;
 }
-  a {
+a {
   color:grey;
-  background-color: none;
   text-decoration: none;
+}
+  nav a {
+  color:grey;
+  background-color: #fee980;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+nave ul{
+  list-style-type: none;
 }
